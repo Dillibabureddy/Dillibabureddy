@@ -1,4 +1,4 @@
-# Hello! I Am BANDI DILLI BABU REDDY
+# Hello! I am BANDI DILLI BABU REDDY
 
 Aspiring software engineer with a strong foundation in computer science. Currently pursuing a Bachelor's degree in CSE at SRMIST. Passionate about problem-solving and building innovative solutions. Eager to learn and grow, constantly expanding my knowledge base. Seeking opportunities to apply my skills and contribute to dynamic projects.
 
