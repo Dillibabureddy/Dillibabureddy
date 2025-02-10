@@ -16,9 +16,8 @@ Aspiring software engineer with a strong foundation in computer science. Current
 - [My Portfolio](https://dillibabureddy.github.io/my-portfolio-new/)
 
 ## 🏆 Achievements
-- [Achievement 1]
-- [Achievement 2]
-- [Achievement 3]
+- 10CGPA at SRM
+- 199 rank in AP EAMCET
 
 ## 📫 Contact
 Feel free to reach out to me via:
