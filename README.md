@@ -9,15 +9,20 @@ Aspiring software engineer with a strong foundation in computer science. Current
 
 ## 💼 Skills
 - **Programming Languages**: C, C++, Java, Python, HTML, CSS, MySQL, JavaScript
-- **Tools & Frameworks**: VS Code, Google Colab, Google Cloud, MySQL, IntelliJ
-- **Other Skills**: [List any other relevant skills]
+- **Tools & Frameworks**: VS Code, Google Colab, Google Cloud, MySQL, IntelliJ,AWS,pytorch,Seaborn,Scikitlearn,Flask
+- **Other Skills**: AWS,GCP
 
 ## 🌐 Portfolio
 - [My Portfolio](https://dillibabureddy.github.io/my-portfolio-new/)
 
 ## 🏆 Achievements
-- 10CGPA at SRM
+- Achieved 10CGPA thrice at SRM
 - 199 rank in AP EAMCET
+- Scholarship recipiet at SRM
+## Internships 
+-NIIST Tiruvananthapuram , Summer Research Fellowship at CSIR ,Trivandrum
+-Intern at Arcon Tech Solutions
+-Project intern at Intel
 
 ## 📫 Contact
 Feel free to reach out to me via:
