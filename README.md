@@ -13,7 +13,7 @@ Aspiring software engineer with a strong foundation in computer science. Current
 - **Other Skills**: AWS,GCP
 
 ## 🌐 Portfolio
-- [My Portfolio](https://dillibabureddy.github.io/my-portfolio-new/)
+- [My Portfolio](https://dillibabureddy.github.io/)
 
 ## 🏆 Achievements
 - Achieved 10CGPA thrice at SRM
